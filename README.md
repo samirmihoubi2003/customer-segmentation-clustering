@@ -17,3 +17,7 @@ py -m venv .venv
 .\.venv\Scripts\activate
 pip install -r requirements.txt
 py -m src.main
+
+## Example outputs
+![Silhouette](assets/silhouette_vs_k.png)
+![PCA clusters](assets/pca_clusters.png)
